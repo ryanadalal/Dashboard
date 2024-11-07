@@ -1,0 +1,19 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "A dashboard with basic home control and work support tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanadalal/Dashboard.git"
+  },
+  "author": "Ryan Dalal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanadalal/Dashboard/issues"
+  },
+  "homepage": "https://github.com/ryanadalal/Dashboard#readme"
+}
