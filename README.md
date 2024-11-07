@@ -10,3 +10,5 @@ Implement ai somehow
 Other stuff
 Email me reminders
 Secret Santa thing
+
+RUN by running node --env-file=.env index.mjs 

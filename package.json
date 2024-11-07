@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ryanadalal/Dashboard/issues"
   },
-  "homepage": "https://github.com/ryanadalal/Dashboard#readme"
+  "homepage": "https://github.com/ryanadalal/Dashboard#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
